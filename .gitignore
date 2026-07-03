@@ -1,0 +1,11 @@
+*
+!.gitignore
+!docs/
+docs/*
+!docs/.nojekyll
+!docs/DEPLOYMENT.md
+!docs/index.html
+!docs/privacy.html
+!docs/support.html
+!docs/styles.css
+!docs/terms.html
